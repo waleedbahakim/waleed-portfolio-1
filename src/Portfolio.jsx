@@ -666,9 +666,8 @@ export default function Portfolio() {
                 real-time layers and data behind them.
               </p>
               <p>
-                I'm based in Aurangabad, India, and open to <b>remote or onsite</b> roles across the
-                UAE and the wider GCC — and open to the right opportunity anywhere. If it ships and
-                people use it, I'm interested.
+                I'm based in Aurangabad, India, and open to <b>remote, onsite, and freelance</b> work.
+                If it ships and people use it, I'm interested.
               </p>
             </div>
 
@@ -677,7 +676,7 @@ export default function Portfolio() {
                 ["Role", "Full Stack Developer", false],
                 ["Focus", "MERN + GenAI", true],
                 ["Based in", "Aurangabad, India", false],
-                ["Open to", "Remote / Onsite · GCC", true],
+                ["Open to", "Remote / Onsite / Freelance", true],
                 ["Languages", "English, Hindi, Urdu", false],
                 ["Status", "Open to work", true],
               ].map(([k, v, sig], i) => (
@@ -821,8 +820,7 @@ export default function Portfolio() {
             Let's build<br /><span className="em">something.</span>
           </h2>
           <p className="contact-sub" data-reveal>
-            Open to full stack and frontend roles — remote or onsite, across the UAE and the wider
-            GCC, and open to the right opportunity anywhere, plus interesting freelance.
+            Open to full-stack and frontend roles — remote / onsite — plus interesting freelance.
             The fastest way to reach me is email.
           </p>
 
