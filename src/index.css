@@ -3,6 +3,10 @@ html {
   background: #0a1220;
   color-scheme: dark;
 }
+html[data-theme="light"] {
+  background: #eceae2;
+  color-scheme: light;
+}
 html,
 body {
   margin: 0;
